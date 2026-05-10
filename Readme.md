@@ -49,13 +49,13 @@ The goal of this repository is to continuously improve development skills by bui
 
 ---
 
-## AI & Advanced Technologies
-
-* Generative AI
-* RAG Systems
-* LangChain
-* REST APIs
-* Real-Time Systems
+## Learning Focus
+- HTML Structure Practice
+- CSS Styling & Layouts
+- JavaScript Logic Building
+- DOM Manipulation
+- UI Interactions
+- Frontend Problem Solving
 
 ---
 
