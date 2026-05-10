@@ -123,6 +123,34 @@ Each project explores different frontend concepts including animations, layouts,
 
 ---
 
+## Preview 9
+
+![Project Screenshot 8](./Screenshots/9.png)
+
+---
+
+## Preview 10
+
+![Project Screenshot 8](./Screenshots/10.png)
+
+---
+
+## Preview 11
+
+![Project Screenshot 8](./Screenshots/11.png)
+
+---
+
+## Preview 12
+
+![Project Screenshot 8](./Screenshots/12.png)
+
+---
+## Preview 13
+
+![Project Screenshot 8](./Screenshots/13.png)
+
+---
 # ⚡ Practice & Learning Focus
 
 Projects inside this repository were mainly created for practicing and improving:
@@ -138,15 +166,7 @@ Projects inside this repository were mainly created for practicing and improving
 
 ---
 
-# 🎯 Future Goals
 
-* Build more creative frontend projects
-* Improve JavaScript problem solving
-* Learn advanced frontend development
-* Explore React.js projects
-* Create better responsive designs
-
----
 
 # 👨‍💻 Developer
 
