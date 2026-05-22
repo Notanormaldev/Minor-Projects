@@ -1,193 +1,48 @@
-# 🚀 Frontend Development Projects Collection
+# Minor Projects 🎨
 
-A curated collection of frontend development projects built while learning modern UI design, animations, responsive layouts, JavaScript concepts, and interactive web experiences.
+A collection of frontend experiments built while learning UI design, animations, and JavaScript.
 
-This repository contains multiple frontend projects focused on:
-
-* HTML & CSS Practice
-* JavaScript Concepts
-* Responsive Web Design
-* Interactive UI Components
-* DOM Manipulation
-* Layout Building
-* Styling & Animations
-* Creative Frontend Experiments
-
-The goal of this repository is to continuously improve development skills by building practical projects using industry-level technologies and architecture patterns.
+**HTML · CSS · JavaScript · Tailwind CSS**
 
 ---
 
-# 🛠️ Technologies Used
+## 📂 Projects
 
-## Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* Tailwind CSS
-
----
-
-## Frontend Focus Areas
-
-* Responsive Design
-* Modern Layout Systems
-* Interactive Components
-* DOM Manipulation
-* UI Animations
-* JavaScript Logic
-* Smooth User Experience
+| Project | What it is |
+|---------|------------|
+| Dribble Project | Premium UI clone |
+| TASK — Reel | Reel-style UI interaction |
+| TASK — Spotlight | Spotlight cursor effect |
+| TASK — Cursor | Custom sword cursor replacing default arrow |
+| TASK — Font Change | Dynamic font switcher |
+| Piano | Interactive JS Piano |
+| Border Card | CSS animated card |
+| Anchor PJ | Scroll animation |
+| Simple Web 1 & 2 | Layout practice |
+| CSS Projects (1-3) | CSS experiments |
 
 ---
 
-## Tools & Technologies
+## 🖼️ Screenshots
 
-* HTML5
-* CSS3
-* JavaScript
-* Tailwind CSS
-
----
-
-## Learning Focus
-- HTML Structure Practice
-- CSS Styling & Layouts
-- JavaScript Logic Building
-- DOM Manipulation
-- UI Interactions
-- Frontend Problem Solving
-
----
-
-# 📂 Repository Purpose
-
-This repository acts as:
-
-* A frontend learning archive
-* A UI/UX experimentation space
-* A JavaScript practice environment
-* A collection of creative web projects
-* A showcase of modern frontend development
-
-Each project explores different frontend concepts including animations, layouts, responsive design, DOM manipulation, effects, interactions, and modern user experience patterns.
-
----
-
-# 🖼️ Project Screenshots
-
-## Preview 1
-
-![Project Screenshot 1](./Screenshots/1.png)
-
----
-
-## Preview 2
-
-![Project Screenshot 2](./Screenshots/2.png)
-
----
-
-## Preview 3
-
-![Project Screenshot 3](./Screenshots/3.png)
-
----
-
-## Preview 4
-
-![Project Screenshot 4](./Screenshots/4.png)
-
----
-
-## Preview 5
-
-![Project Screenshot 5](./Screenshots/5.png)
-
----
-
-## Preview 6
-
-![Project Screenshot 6](./Screenshots/6.png)
-
----
-
-## Preview 7
-
-![Project Screenshot 7](./Screenshots/7.png)
-
----
-
-## Preview 8
-
-![Project Screenshot 8](./Screenshots/8.png)
-
----
-
-## Preview 9
-
-![Project Screenshot 8](./Screenshots/9.png)
-
----
-
-## Preview 10
-
-![Project Screenshot 8](./Screenshots/10.png)
-
----
-
-## Preview 11
-
-![Project Screenshot 8](./Screenshots/11.png)
-
----
-
-## Preview 12
-
-![Project Screenshot 8](./Screenshots/12.png)
-
----
-## Preview 13
-
-![Project Screenshot 8](./Screenshots/13.png)
-
----
-# ⚡ Practice & Learning Focus
-
-Projects inside this repository were mainly created for practicing and improving:
-
-* HTML & CSS layouts
-* JavaScript fundamentals
-* Responsive design
-* DOM manipulation
-* UI styling
-* Small frontend interactions
-* Website structure building
-* Frontend development concepts
-
----
-
-
-
-# 👨‍💻 Developer
-
-## Notanormaldev
-
-Frontend Developer focused on building modern, interactive, and premium web experiences.
-
----
-
-# ⭐ Support
-
-If you like this repository:
-
-* Star the repo ⭐
-* Fork and contribute 🚀
-* Share feedback 🔥
+![Preview 1](./Screenshots/1.png)
+![Preview 2](./Screenshots/2.png)
+![Preview 3](./Screenshots/3.png)
+![Preview 4](./Screenshots/4.png)
+![Preview 5](./Screenshots/5.png)
+![Preview 6](./Screenshots/6.png)
+![Preview 7](./Screenshots/7.png)
+![Preview 8](./Screenshots/8.png)
+![Preview 9](./Screenshots/9.png)
+![Preview 10](./Screenshots/10.png)
+![Preview 11](./Screenshots/11.png)
+![Preview 12](./Screenshots/12.png)
+![Preview 13](./Screenshots/13.png)
 
 ---
 
 <div align="center">
 
-# 💻 Building. Learning. Scaling.
+💻 Building. Learning. Scaling.
 
 </div>
