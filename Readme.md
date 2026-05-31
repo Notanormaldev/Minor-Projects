@@ -38,7 +38,9 @@ A collection of frontend experiments built while learning UI design, animations,
 ![Preview 11](./Screenshots/11.png)
 ![Preview 12](./Screenshots/12.png)
 ![Preview 13](./Screenshots/13.png)
-
+![Preview 14](./Screenshots/14.png)
+![Preview 15](./Screenshots/15.png)
+![Preview 16](./Screenshots/16.png)
 ---
 
 <div align="center">
